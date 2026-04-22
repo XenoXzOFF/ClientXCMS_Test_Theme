@@ -1,4 +1,4 @@
-# 🚀 ClientXCMS Theme : [Nom du Thème]
+# 🚀 ClientXCMS Theme : ClientXCMS_Test_Theme
 
 [![ClientXCMS Version](https://img.shields.io/badge/ClientXCMS-v3.0+-blue.svg)](https://clientxcms.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -12,12 +12,12 @@ Un thème moderne et performant pour **ClientXCMS**, conçu en respectant strict
 
 ## 🛠️ Installation
 
-Pour installer ce thème correctement, vous devez le cloner directement dans le répertoire `themes/` de votre installation ClientXCMS.
+Pour installer ce thème correctement, vous devez le cloner directement dans le répertoire `resources/themes/` de votre installation ClientXCMS.
 
 Ouvrez votre terminal à la racine de votre projet ClientXCMS :
 
 ```bash
-cd themes/
+cd resources/themes/
 
 git clone https://github.com/XenoXzOFF/ClientXCMS_Test_Theme.git ClientXCMS_Test_Theme
 ```
@@ -27,7 +27,7 @@ git clone https://github.com/XenoXzOFF/ClientXCMS_Test_Theme.git ClientXCMS_Test
 Ouvrez votre terminal à la racine de votre projet ClientXCMS : 
 
 ```bash
-cd themes/ClientXCMS_Test_Theme
+cd resources/themes/ClientXCMS_Test_Theme
 
 git pull origin main
 ```
@@ -38,7 +38,7 @@ Ouvrez votre terminal à la racine de votre projet ClientXCMS :
 
 ```bash
 
-cd themes/
+cd resources/themes
 
 rm -rf ClientXCMS_Test_Theme
 ```

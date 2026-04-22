@@ -1,7 +1,8 @@
 {
-    "name": "ClientXCMS_Test_Theme",
-    "author": "XenoXzOFF",
+    "name": "ClientXCMS Test Theme",
+    "slug": "ClientXCMS_Test_Theme",
+    "author": "Expert",
     "version": "1.0.0",
-    "description": "Thème de test pour ClientXCMS",
-    "screenshot": "screenshot.png"
+    "support": "3.*",
+    "description": "Thème complet avec support Client et Auth."
 }

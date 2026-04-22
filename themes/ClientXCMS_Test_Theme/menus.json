@@ -1,0 +1,4 @@
+[
+    {"name": "Accueil", "url": "/", "order": 1},
+    {"name": "Boutique", "url": "/store", "order": 2}
+]
