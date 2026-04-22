@@ -1,24 +1,44 @@
-# 🚀 ClientXCMS Theme : [Nom de ton Thème]
+# 🚀 ClientXCMS Theme : [Nom du Thème]
 
 [![ClientXCMS Version](https://img.shields.io/badge/ClientXCMS-v3.0+-blue.svg)](https://clientxcms.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Un thème moderne, élégant et entièrement responsive conçu spécifiquement pour le CMS de vente de services d'hébergement **ClientXCMS**.
+Un thème moderne et performant pour **ClientXCMS**, conçu en respectant strictement la [documentation développeur](https://docs.clientxcms.com/developpers/themes/create-theme).
 
-## ✨ Caractéristiques
-
-- 🎨 **Design Moderne** : Interface utilisateur intuitive basée sur Bootstrap 5 / Tailwind CSS.
-- 📱 **Full Responsive** : Optimisé pour PC, Tablettes et Smartphones.
-- 🌓 **Mode Sombre/Clair** : Support natif du basculement de thème.
-- 🛠️ **Personnalisation facile** : Intégration complète avec l'administration de ClientXCMS (couleurs, logos, réseaux sociaux).
-- ⚡ **Performance** : Code Twig optimisé pour un chargement rapide.
+---
 
 ## 📸 Aperçu
-
-![Screenshot du thème](public/screenshot.png)
+![Screenshot](public/screenshot.png)
 
 ## 🛠️ Installation
 
-1. **Téléchargement** : Clonez ce dépôt ou téléchargez le fichier `.zip`.
-   ```bash
-   git clone [https://github.com/XenoXzOFF/ClientXCMS_Test_Theme.git](https://github.com/XenoXzOFF/ClientXCMS_Test_Theme.git)
+Pour installer ce thème correctement, vous devez le cloner directement dans le répertoire `themes/` de votre installation ClientXCMS.
+
+Ouvrez votre terminal à la racine de votre projet ClientXCMS :
+
+```bash
+cd themes/
+
+git clone https://github.com/XenoXzOFF/ClientXCMS_Test_Theme.git ClientXCMS_Test_Theme
+```
+
+## 🗘 Mise à jours du thème
+
+Ouvrez votre terminal à la racine de votre projet ClientXCMS : 
+
+```bash
+cd themes/ClientXCMS_Test_Theme
+
+git pull origin main
+```
+
+## 🗑 Désinstallation du thème
+
+Ouvrez votre terminal à la racine de votre projet ClientXCMS : 
+
+```bash
+
+cd themes/
+
+rm -rf ClientXCMS_Test_Theme
+```
