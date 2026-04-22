@@ -1,8 +1,12 @@
 {
-    "name": "ClientXCMS Test Theme",
-    "slug": "ClientXCMS_Test_Theme",
-    "author": "Expert",
-    "version": "1.0.0",
-    "support": "3.*",
-    "description": "Thème complet avec support Client et Auth."
+    "name": "ClientXCMS_Test_Theme",
+    "uuid": "ClientXCMS_Test_Theme",
+    "description": "A theme for CLIENTXCMS named ClientXCMS_Test_Theme.",
+    "version": "1.0",
+    "author": {
+        "name": "XenoXzOFF",
+        "email": "xenoxzperso@gmail.com"
+    },
+    "unofficial": true,
+    "parent_theme": "bootstrap"
 }

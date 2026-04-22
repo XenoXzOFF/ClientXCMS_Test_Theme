@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'bootstrap-icons/font/bootstrap-icons.min.css';
+@import 'flatpickr/dist/flatpickr.min.css';
+/* Your CSS code here */
